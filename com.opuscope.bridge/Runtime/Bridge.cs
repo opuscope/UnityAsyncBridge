@@ -6,6 +6,8 @@ using UnityEngine;
 
 namespace Opuscope.Bridge
 {
+    // test change
+
     public class BridgeMessage
     {
         [JsonProperty("path")]
